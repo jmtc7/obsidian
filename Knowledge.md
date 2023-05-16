@@ -1,0 +1,6 @@
+- [[Arts]]
+- [[Geography]]
+- [[Geopolitics and History]]
+- [[Philosophy]]
+- [[Technical]]
+- 

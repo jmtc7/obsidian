@@ -1,0 +1,20 @@
+#time #timezones
+
+Time zones are regions of the Earth that share the same time. They are meant to be set in relation with the relative position of the Earth and the Sun to accomodate similar hours for sunrises and sunsets across the Globe so that we can all consider \textit{mornings} the part of the day when the Sun is rising and \textit{evenings} the part of the day when it lowers it's altitude until it sets.
+
+If all the planet would be in the same timezone, 12:00 would be the moment in which the Sun is at its highest point for some people, while for the people in the other side of the Earth, it would be the darkest moment of the day. As explained by [Anne Buckle](https://www.timeanddate.com/time/time-zones-history.html), aiming to facilitate transport and commercial interactions, time zones were created towards the end of the 19<sup>th</sup> century. Here we get to the meridians, which are circles that passes by both Earth poles and some other place. Since the Greenwich Observatory (in the United Kingdom) had a huge reputation regarding navigational data, the meridian passing by it was the most widely spreaded reference back on that day. This is why it was chosen to be the reference meridian for the timezones (i.e. prime meridian), and the timezones of the whole world would be defined with reference to the hour in that place. This is how the *Greenwich Mean Time* (GMT), alongside the 24 hours, became the world standard that persisted until today.
+
+Once the reference was set, hour differences with respect to that reference time zone were set across the world, mostly depending on the countries' borders, but following the general rule of increasing the hour in the time zones East from the GMT and decreasing them while going West.
+
+## Spanish Time Zone
+#spain 
+This information is extracted from an [article by Jaime Rubio Hancock](https://verne.elpais.com/verne/2018/09/01/articulo/1535793808_157511.html). Before the standarization of timezones, all Spanish cities had a different hour, based on the average sun incision in that area, leading to time differences between cities as close (in a global scale) as Madrid and Barcelona. After January 1<sup>st</sup> 1901, all Spain started using the same hour, the GMT+0, due to its almost vertical alignment with Greenwich.
+
+### Political Time Zone Change
+#franco #dictatorship #nazis #ww2
+An interesting change happened during the 2<sup>nd</sup> World War. The Saturday 16<sup>th</sup> of March 1940, at 11 PM, Spain changed its time zone to be aligned with the German one. This happened, as with other countries, to make the synchronization easier between the country and Germany and the Nazi regime that was in power at the time. The reason that pushed this change forward was the close alignement between the ideology of the Spanish fascist movement of the dictator Francisco Franco and Hitler's Nazism in Germany.
+
+### Canary Islands Time Zone
+[Manuel M. Almeida](https://mangasverdes.es/2013/11/07/origen-hora-oficial-de-canarias/) exposes a fun fact about the official time in the Canary Islands, a Spanish archipielago located in the North-West coast of Africa. Even though Spain chose an official common hour for most of its territory in July 1900, it was not until February 1922 that, by action of a different King, an official hour was provided for the Canary Islands. Until that year, they were not included in the legal document that specified the Spanish time zone. Due to the difference position of the Canary Islands with mainland Spain, it was decided that, in these islands, the time zone would not be GMT+0, but rather GMT-1.
+
+This time difference was kept after General Franco, the Spanish dictator, decided to increase by 1 the hour in all Spanish territories, since when approving that change no exceptions were specified for the Canary Islands. This is why, until this day, most of Spain uses the GMT+1 and the Canary Islands keep the GMT+0.
